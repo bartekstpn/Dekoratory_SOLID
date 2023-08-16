@@ -1,0 +1,1 @@
+{"saldo": 1200.0, "magazyn": {"rower": {"ilosc": 1, "cena": 100}, "l\u0102\u0142dka": {"ilosc": 3, "cena": 1500}}}
